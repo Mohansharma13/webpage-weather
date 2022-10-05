@@ -91,7 +91,7 @@ main{
 	width: 100%;
 	height: auto;
 	background: #fff;
-	animation: light 15s linear infinite;
+	animation: light 10s linear infinite;
 	opacity: 0;
 }
 @keyframes AniRain{
